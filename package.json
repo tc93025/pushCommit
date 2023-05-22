@@ -1,0 +1,22 @@
+{
+  "name": "pushcommit",
+  "version": "1.0.0",
+  "description": "Node.js pushcommit to git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tc93025/pusht0auto2.git"
+  },
+  "keywords": [
+    "push"
+  ],
+  "author": "tc93025",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tc93025/pusht0auto2/issues"
+  },
+  "homepage": "https://github.com/tc93025/pusht0auto2#readme"
+}
